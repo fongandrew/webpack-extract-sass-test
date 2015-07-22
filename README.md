@@ -4,7 +4,7 @@ Test for https://github.com/jtangelder/sass-loader/issues/125
 
 `npm install`
 
-`npm watch`
+`npm run watch`
 
 Making changes to `src/scss/index.scss` triggers the following:
 ```
