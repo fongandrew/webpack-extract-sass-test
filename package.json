@@ -1,0 +1,20 @@
+{
+  "name": "webpack-sass-test",
+  "version": "0.1.0",
+  "description": "Test for https://github.com/jtangelder/sass-loader/issues/125",
+  "scripts": {
+    "webpack": "webpack",
+    "watch": "webpack-dev-server --content-base dist/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-typescript-loader": "^0.8.0-rc.0",
+    "css-loader": "^0.15.5",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "node-sass": "^3.2.0",
+    "sass-loader": "^1.0.2",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.10.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
